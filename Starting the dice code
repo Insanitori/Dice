@@ -1,0 +1,8 @@
+//http://www.theappguruz.com/blog/roll-a-dice-unity-3d
+
+//https://forum.unity.com/threads/c-dice-rolling-script.319917/
+
+First figure out how to roll dice then add modifier. Afterwards, assign the dice to different events that can happen and add different types of dice. Make a random game.
+
+for switch statements
+https://learn.unity.com/tutorial/switch-statements#5c8a6f91edbc2a067d4753d4
